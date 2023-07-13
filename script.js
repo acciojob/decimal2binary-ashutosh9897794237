@@ -15,7 +15,7 @@ function decimalToBinary(num) {
  
     // printing binary array in reverse order
         document.write(binaryNum[i]);
-}
+
   
 }
 
